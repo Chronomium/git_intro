@@ -1,1 +1,2 @@
-This is a new repo
+Gervasius Kevin Juanda
+juandag@oregonstate.edu
